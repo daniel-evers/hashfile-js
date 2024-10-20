@@ -1,0 +1,9 @@
+{
+    "name": "hashfile",
+    "version": "1.0.0",
+    "description": "Simple asynchronous functionality to create hash values for files of any size.",
+    "main": "index.js",
+    "keywords": [],
+    "author": "Daniel Evers",
+    "license": "Apache-2.0"
+}
